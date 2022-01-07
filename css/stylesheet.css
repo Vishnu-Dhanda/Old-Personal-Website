@@ -1,0 +1,231 @@
+
+
+#loading {
+ background-color: #f8fafc ;
+ width: 100% ;
+ height: 100%;
+ position: fixed;
+ z-index: 99999;
+ text-align: center;
+ overflow: hidden;
+ margin: 0;
+ padding: 0;
+ 
+}
+
+
+
+
+body{
+    font-family: 'Inter', sans-serif!important ;
+    margin-left: 0px !important;
+}
+
+img{
+    max-width: 100% !important;
+}
+
+.vishnudhanda {
+  width: 438px !important;
+  height: auto !important ;
+}
+
+h1{
+
+font-size: 60px !important;
+line-height: 80px !important;
+color: #333333!important;
+padding-left: 31px;
+padding-top: 20px;
+}
+
+nav{
+    background-color: #f8fafc!important
+    ;
+}
+
+nav ul li {
+    display: inline-block!important;
+    margin: 0% 15px!important;
+    padding: 0%!important;
+    letter-spacing: 1px!important;
+
+    
+}
+
+body, ul { 
+    margin: 0%;
+    padding: 0%;
+}
+nav ul {
+    margin: 0% auto!important;
+    text-align: center!important;
+    padding: 10px!important;
+}
+
+header{
+    top: 20px!important;
+    position: relative!important;
+    bottom: 30px!important;
+}
+
+.summary {
+    list-style-type: none!important;
+    padding-top: 30px;
+}
+
+a {
+    text-decoration: none!important;
+    color: black!important;
+    font-weight: 440!important;
+}
+
+
+a:hover {
+    color: #227cb5!important;
+}
+
+
+li {    
+    margin-bottom: 20px!important;
+    font-size: 19px!important;
+    line-height: 25px!important;
+}
+
+.blogstyle{
+    text-decoration: underline!important;
+    color: #227cb5!important;
+    font-weight: 500!important;
+
+}
+
+.colour-start{
+    background-color: #f8fafc!important;
+    padding-bottom: 40px!important;
+}
+
+
+
+html {
+    scroll-behavior: smooth!important;
+  }
+
+.foot{
+    padding-top: 20px!important;
+    text-align: center!important;
+
+}
+
+.footer-text{
+    font-size: 15px!important;
+    font-weight: 400!important;
+    line-height: 25px!important;
+    text-transform: uppercase!important;
+}
+
+.affiliates{
+    padding-top: 17px;
+    padding-bottom: 25px;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 25px;
+    color: #333333;
+    text-decoration-line: underline;
+    text-decoration-style: "solid";
+    text-decoration-color: #227cb5;
+    text-decoration-thickness: 4px;
+    text-underline-offset: 4px;
+    
+}
+.latest-posts{
+    padding-top: 23px;
+    padding-bottom: 25px;
+    font-weight: 540;
+    font-size: 25px;
+    line-height: 25px;
+    color: #333333;
+    text-decoration-line: underline;
+    text-decoration-style: "solid";
+    text-decoration-color: #227cb5;
+    text-decoration-thickness: 4px;
+    text-underline-offset: 4px;
+}
+
+.card-title{
+    text-align: center;
+}
+
+.card-img-top{
+    max-height: 186px;
+}
+
+.skillshare{
+    padding-bottom: 10px;
+}
+
+.card {
+    max-width: 96%;
+    border: none !important;
+    border-radius: 10px !important;
+    background: #ffffff;
+    box-shadow:  11px 11px 22px #ededed,
+                 -11px -11px 22px #ffffff;
+}
+
+.notion-padding{
+    padding-bottom: 20px;
+}
+
+.card{
+    padding: 1em;
+    border: 1px solid #b5b5b5;
+    border-radius: 10px;
+    width: fit-content;
+    transition: 0.3s;
+  }
+  
+  .card:hover{
+    margin-top: -5px;
+  }
+
+  .writings{
+      margin-left: -10px !important;
+  }
+
+.navbar-toggler{
+    margin-left: 20px !important;
+}
+
+h3{
+    font-size: 19px !important;
+    line-height: 25px !important;
+    text-decoration: none;
+}
+
+
+hr{
+    height: 1px !important;
+    color: #227cb5 !important;
+    
+}
+
+
+
+.contactme{
+    padding-top: 60px;
+    padding-bottom: 70px;
+    margin-right: 50px !important;
+    font-size: 60px !important;
+}
+
+.midsection{
+    padding-left: 24px !important;
+}
+
+.fa{
+    padding: 1%;
+}
+
+.contact_me_box{
+    background-color: white !important;
+}
