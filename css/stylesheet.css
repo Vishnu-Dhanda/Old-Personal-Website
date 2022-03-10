@@ -234,6 +234,7 @@ hr{
     padding-bottom: 2.3px;
     background: rgb(252, 238, 246);
     background-clip: padding-box;
+    font-size: 15px;
   }
 
 .project-box-2{
@@ -242,6 +243,8 @@ hr{
     padding-bottom: 2.3px;
     background: rgb(242, 244, 255);
     background-clip: padding-box;
+    font-size: 15px;
+
   }
   
 .project-box-3{
@@ -250,5 +253,7 @@ hr{
     padding-bottom: 2.3px;
     background: rgb(237, 255, 241);
     background-clip: padding-box;
+    font-size: 15px;
+
   }
   
