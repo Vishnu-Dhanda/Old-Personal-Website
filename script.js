@@ -17,3 +17,5 @@ fetch("https://potion-api.now.sh/html?id=" + notionDocId)
   .then(text => {
     document.querySelector("main").innerHTML = text
   })
+
+  
