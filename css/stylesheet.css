@@ -213,9 +213,9 @@ hr{
 
 .contactme{
     padding-top: 60px;
-    padding-bottom: 70px;
+    padding-bottom: 33px;
     margin-right: 50px !important;
-    font-size: 60px !important;
+    font-size: 35px !important;
 }
 
 .midsection{
@@ -228,11 +228,18 @@ hr{
 
 .contact_me_box{
     background-color: white !important;
+    margin: 0 auto ;
+    max-width: 700px !important;
+    height: 100px!;
+    background-color: #ccc;
+    border-radius: 3px;
+    padding: 40px;
 }
+
 .project-box-1{
     padding: 13px;
     padding-bottom: 2.3px;
-    background: rgb(252, 238, 246);
+    background: rgb(255, 245, 250);
     background-clip: padding-box;
     font-size: 15px;
   }
@@ -241,7 +248,7 @@ hr{
     margin-top: 8px;
     padding: 13px;
     padding-bottom: 2.3px;
-    background: rgb(242, 244, 255);
+    background: rgb(245, 246, 255);
     background-clip: padding-box;
     font-size: 15px;
 
@@ -251,7 +258,7 @@ hr{
     margin-top: 8px;
     padding: 13px;
     padding-bottom: 2.3px;
-    background: rgb(237, 255, 241);
+    background: rgb(243, 255, 245);
     background-clip: padding-box;
     font-size: 15px;
 
