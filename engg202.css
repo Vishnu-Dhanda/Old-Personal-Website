@@ -1,0 +1,44 @@
+body{
+    font-family: 'Inter', sans-serif!important ;
+    margin-left: 0px !important;
+}
+
+h2{
+    margin-left: 300px;
+    margin-top: 50px;
+    color: #1884fc;
+    font-size: 45px !important;
+}
+
+
+h3{
+    font-size: 30px;
+    margin-left: 300px;
+
+}
+
+/* Style buttons */
+.btn {
+    background-color: DodgerBlue;
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    cursor: pointer;
+    font-size: 20px;
+    margin-left: 300px;
+    margin-top: 20px;
+  }
+  
+  /* Darker background on mouse-over */
+  .btn:hover {
+    background-color: RoyalBlue;
+    
+  }
+  
+
+h5{
+    font-size: 16px;
+    margin-left: 300px;
+    font-weight: 3px;
+    
+}
