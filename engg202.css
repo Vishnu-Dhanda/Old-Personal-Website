@@ -21,21 +21,28 @@ h3{
 .btn {
     background-color: DodgerBlue;
     border: none;
-    color: white;
+    color: white !important;
     padding: 12px 30px;
     cursor: pointer;
     font-size: 20px;
     margin-left: 300px;
     margin-top: 20px;
+    align-items: left !important;
+    text-decoration: none !important;
   }
+
   
   /* Darker background on mouse-over */
   .btn:hover {
     background-color: RoyalBlue;
-    
+    text-decoration: none !important;
+
   }
   
-
+a{
+    color: white;
+    text-decoration: none;
+}
 h5{
     font-size: 16px;
     margin-left: 300px;
